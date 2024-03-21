@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(12, 11, 11);
+
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+.ali{
+    padding-top:50px ;
+    align-items: center;
+    display: flex;
+    padding-left: 50px;
+    background-color: rgb(23, 7, 82);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    border: rgb(32, 235, 133) 10px solid;
+}
+.ya{
+   color: rgb(245, 177, 224);
+   background-color: rgb(231, 98, 98);
+   border: 1px solid yellowgreen;
+}
+.mmm{
+    color: #fa0e0e;
+    background-color: rgb(16, 151, 83);
+    border: 1px solid yellowgreen;
+}
+.as{
+    color: #faf3f3;
+    background-color: black;
+    border: 1px solid yellowgreen;
+    
+}

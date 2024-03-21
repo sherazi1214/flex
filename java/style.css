@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(NATURE.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+  
+}
+.container{
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-right: 600px;
+}
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    font-size: 8vmin;
+    color: rgb(245, 73, 73);
+    background-color: azure;
+}
+#Reset-btn{
+    padding: 2rem;
+    font-size: 1.25rem;
+    background-color: blue;
+    color: azure;
+    border-radius: 1rem;
+    border: none;
+}
+#new-btn{
+    padding: 2rem;
+    font-size: 1.5rem;
+    background-color: blue;
+    color: azure;
+    border-radius: 1rem;
+    border: none;}
+
+#msg{
+    color: rgb(6, 248, 18);
+    font-size: 10vmin;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}   
+
+.msg-container{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+.hide{
+   display: none;
+}
+h1{
+    font-size: 70px;
+    color: rgb(12, 12, 12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(247, 114, 38);
+   
+    
+}
+.ali img {
+    width: 400px;
+    height: 400px;
+   margin-right: 150px;
+}
+h2{
+    font-size: 40px;
+    color: rgb(23, 20, 207);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

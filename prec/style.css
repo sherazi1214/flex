@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(34, 44, 44);
+}
+
+
+.container-fluid{
+    background-color: rgb(220, 45, 236);
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 5px solid rgb(23, 24, 22);
+    letter-spacing: 2px;
+
+}
+#navbarSupportedContent{
+    background-color: rgb(202, 206, 145);
+}
+
+.carousel-inner{
+    align-items: center;
+    
+    
+}
+.col{
+    width: 400px;
+}
+.card-group{
+    border: 3px solid rgb(205, 50, 140);
+}
+.container{
+    background-color: rgb(136, 238, 221);
+    font-family: Arial, Helvetica, sans-serif;
+}
